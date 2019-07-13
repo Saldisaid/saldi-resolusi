@@ -2,8 +2,8 @@ Rencana kedepan
 
 - Belajar Pemrograman lebih giat lagi
 *PHP
-*Pyhton
 *js
 *framwork php
 *framwork js
   -react js
+
