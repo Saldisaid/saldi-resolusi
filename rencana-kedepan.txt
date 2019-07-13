@@ -1,3 +1,6 @@
 Rencana kedepan
 
 - Belajar Pemrograman lebih giat lagi
+*PHP
+*Pyhton
+*js
