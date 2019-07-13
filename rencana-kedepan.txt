@@ -5,3 +5,4 @@ Rencana kedepan
 *Pyhton
 *js
 *framwork php
+*framwork js
