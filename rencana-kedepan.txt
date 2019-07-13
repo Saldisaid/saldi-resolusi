@@ -6,3 +6,4 @@ Rencana kedepan
 *js
 *framwork php
 *framwork js
+  -react js
